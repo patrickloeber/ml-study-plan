@@ -1,5 +1,18 @@
 # The Ultimate FREE Machine Learning Study Plan
 
+A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough theoretical and practical experience for the job. 
+
+#### IMPORTANT: 
+- This list is not sponsored by any of the mentioned links!
+- This list takes a lot of time and effort to finish if you want to do it properly! 
+
+#### How to use the Plan:
+- For theory lectures: Follow along, take notes, and repeat the notes afterwards
+- For practical lectures/courses: Follow along, take notes. If they provide exercises, do them!!! Do not just google the answer, but try to solve it yourself first!
+- For coding tutorials: Code along, and after the video try to code it on your own again.
+
+## The Plan
+
 ### 0. Prerequisites
 - Linear Algebra and Multivariate Calculus
     - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
