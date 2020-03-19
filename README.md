@@ -15,18 +15,18 @@ A complete study plan to become a Machine Learning Engineer with links to all FR
 ## The Plan
 
 ### 0. Prerequisites
-- Linear Algebra and Multivariate Calculus
+- [ ] Linear Algebra and Multivariate Calculus
     - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
     - [ ] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
     - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
-- Statistics
+- [ ] Statistics
     - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
-- Python
+- [ ] Python
     - [ ] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)
     - [ ] [Advanced Python - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
     - [ ] [Numpy - Free Udemy Course](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)
-    - Matplotlib
+    - [ ] Matplotlib
         - [ ] [sentdex - Playlist on YouTube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) or
         - [ ] [Corey Schafer - Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
     - [ ] [Pandas Tutorial - Playlist on Youtube (Corey Schafer)](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
@@ -35,17 +35,17 @@ A complete study plan to become a Machine Learning Engineer with links to all FR
 - [ ] [Coursera Free Course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [ ] [Machine Learning Stanford Full Course on YouTube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [ ] [Machine Learning From Scratch - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
-- Books (Optional):
+- [ ] Books (Optional and not free, but I recommend at least the first one):
     - [ ] [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=1J69S9GKU93E4&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+2&qid=1584648367&sprefix=hands+o%2Caps%2C256&sr=8-1)
     - [ ] [Python Machine Learning - Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_1?crid=L7PEHL95RXH4&keywords=python+machine+learning&qid=1584648438&sprefix=python+ma%2Caps%2C230&sr=8-1)
     - [ ] [Introduction to Machine Learning with Python - Andreas Müller](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_1?crid=WAQPG9CEM3W&keywords=introduction+to+machine+learning+with+python&qid=1584648523&sprefix=introduc%2Caps%2C238&sr=8-1)
 
 ### 2. Deep Learning
 - [ ] [Stanford Lecture - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- Learn PyTorch (or Tensorflow)
+- [ ] Learn PyTorch (or Tensorflow)
     - [ ] [pytorch.org official Tutorials](https://pytorch.org/tutorials/)
     - [ ] [PyTorch Free Course on YouTube (Python Engineer)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
-- fast.ai - Free Courses
+- [ ] fast.ai - Free Courses
     - [ ] [Practical Deep Learning for Coders Part 1](https://www.fast.ai/)
     - [ ] [Part 2](https://course.fast.ai/part2)
 
@@ -54,7 +54,7 @@ Optional:
 - [ ] [Stanford Lecture- Reinforcement Learning](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 ### 3. Competitions and Own Projects
-- [Kaggle](https://www.kaggle.com/)
+- [ ] [Kaggle](https://www.kaggle.com/)
     - [ ] Datasets (develop own projects)
     - [ ] Competitions (start with Getting started section)
 
