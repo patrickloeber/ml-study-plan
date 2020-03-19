@@ -10,7 +10,7 @@ A complete study plan to become a Machine Learning Engineer with links to all FR
 - For theory lectures: Follow along, take notes, and repeat the notes afterwards.
 - For practical lectures/courses: Follow along, take notes. If they provide exercises, do them!!! Do not just google the answer, but try to solve it yourself first!
 - For coding tutorials: Code along, and after the video try to code it on your own again.
-- Step 3 is critical! Your theoretical knowledge is worthless if you don't know how to apply it to real world problems! Do as many personal projects and competitions as you can!
+- Step 3 is critical! Your theoretical knowledge is worthless if you don't know how to apply it to real world problems! Do as many personal projects and competitions as you can! You don't have to wait with step 3 until you finished the other parts, I recommend starting with a side project or kaggle competition after you finished part 1.1 (Andrew Ng's course).
 
 ## The Plan
 
