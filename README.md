@@ -2,6 +2,9 @@
 
 A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough theoretical and practical experience to get started in the industry! I tried to limit the resources to a minimum, but some courses are extensive.
 
+Watch the presentation here:
+[![Alt text](https://img.youtube.com/vi/dYvt3vSJaQA/hqdefault.jpg)](https://www.youtube.com/watch?v=dYvt3vSJaQA)
+
 #### IMPORTANT: 
 - This list is not sponsored by any of the mentioned links! I did a lot of the courses myself and can highly recommend them!
 - This list takes a lot of time and effort to finish if you want to do it properly! The list does not look that long, but don't underestimate it.
@@ -34,6 +37,7 @@ A complete study plan to become a Machine Learning Engineer with links to all FR
 ### 1. Basics Machine Learning
 - [ ] [Coursera Free Course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [ ] [Machine Learning Stanford Full Course on YouTube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [ ] [Udacity - Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Machine Learning From Scratch - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 - [ ] Books (Optional and not free, but I recommend at least the first one):
     - [ ] [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=1J69S9GKU93E4&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+2&qid=1584648367&sprefix=hands+o%2Caps%2C256&sr=8-1)
@@ -57,6 +61,7 @@ Optional:
 - [ ] [Kaggle](https://www.kaggle.com/)
     - [ ] Datasets (develop own projects)
     - [ ] Competitions (start with Getting started section)
+- [ ] [8 Fun Machine Learning Projects For Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 
 ### 4. Prep for Interviews
 - [ ] https://github.com/alexeygrigorev/data-science-interviews
