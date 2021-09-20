@@ -26,7 +26,7 @@ Watch the video on YouTube for instructions:
 - [ ] Statistics
     - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
 - [ ] Python
-    - [ ] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)
+    - [ ] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) 
     - [ ] [Advanced Python - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
     - [ ] [Numpy - Free Udemy Course](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)
     - [ ] Matplotlib
@@ -82,7 +82,14 @@ Optional:
 - https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
 - https://www.fast.ai/2019/01/02/one-year-of-deep-learning/
 
+
 GitHub:
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
 - https://github.com/yanshengjia/ml-road
+
+## Further resources added by the community
+- [ ] [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
+- [ ] [Basics of Neural Networks, how they learn and some of the involved Mathematics(3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [ ] [Article on Beginner Level Datasets](https://medium.com/machine-learning-india/getting-started-in-data-science-beginner-level-datasets-376ffe60c6fe)
+- [ ] [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
