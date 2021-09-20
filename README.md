@@ -26,7 +26,8 @@ Watch the video on YouTube for instructions:
 - [ ] Statistics
     - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
 - [ ] Python
-    - [ ] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)
+    - [ ] [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
+    - [ ] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) 
     - [ ] [Advanced Python - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
     - [ ] [Numpy - Free Udemy Course](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)
     - [ ] Matplotlib
@@ -45,6 +46,7 @@ Watch the video on YouTube for instructions:
     - [ ] [Introduction to Machine Learning with Python - Andreas Müller](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_1?crid=WAQPG9CEM3W&keywords=introduction+to+machine+learning+with+python&qid=1584648523&sprefix=introduc%2Caps%2C238&sr=8-1)
 
 ### 2. Deep Learning
+- [ ] [Basics of Neural Networks, how they learn and some of the involved Mathematics(3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [ ] [Stanford Lecture - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [ ] Learn PyTorch (or Tensorflow)
     - [ ] [pytorch.org official Tutorials](https://pytorch.org/tutorials/)
@@ -62,6 +64,7 @@ Optional:
     - [ ] Datasets (develop own projects)
     - [ ] Competitions (start with Getting started section)
 - [ ] [8 Fun Machine Learning Projects For Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
+- [ ] [Article on Beginner Level Datasets](https://medium.com/machine-learning-india/getting-started-in-data-science-beginner-level-datasets-376ffe60c6fe)
 
 ### 4. Prep for Interviews
 - [ ] https://github.com/alexeygrigorev/data-science-interviews
@@ -81,6 +84,7 @@ Optional:
 - https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230
 - https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
 - https://www.fast.ai/2019/01/02/one-year-of-deep-learning/
+- https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7
 
 GitHub:
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
