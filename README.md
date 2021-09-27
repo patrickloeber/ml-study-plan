@@ -3,7 +3,8 @@
 A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough theoretical and practical experience to get started in the industry! I tried to limit the resources to a minimum, but some courses are extensive.
 
 Watch the video on YouTube for instructions:  
-[![Alt text](https://img.youtube.com/vi/dYvt3vSJaQA/hqdefault.jpg)](https://www.youtube.com/watch?v=dYvt3vSJaQA)
+[![Alt text](https://img.youtube.com/vi/dYvt3vSJaQA/hqdefault.jpg)](https://www.youtube.com/watch?v=dYvt3vSJaQA)  
+[https://www.youtube.com/watch?v=dYvt3vSJaQA](https://www.youtube.com/watch?v=dYvt3vSJaQA)
 
 #### IMPORTANT: 
 - This list is not sponsored by any of the mentioned links! I did a lot of the courses myself and can highly recommend them!
@@ -89,6 +90,7 @@ GitHub:
 - https://github.com/yanshengjia/ml-road
 
 ## Further resources added by the community
+Contributions are welcome! If you can recommend any other ressources, feel free to open a pull request :)
 - [ ] [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
 - [ ] [Book: Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [ ] [Book: Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
