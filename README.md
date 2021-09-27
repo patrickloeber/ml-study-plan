@@ -97,4 +97,4 @@ Contributions are welcome! If you can recommend any other ressources, feel free 
 - [ ] [Basics of Neural Networks, how they learn and some of the involved Mathematics(3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [ ] [Article on Beginner Level Datasets](https://medium.com/machine-learning-india/getting-started-in-data-science-beginner-level-datasets-376ffe60c6fe)
 - [ ] [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
-- [ ] [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People] (https://www.manning.com/books/grokking-algorithms)
+- [ ] [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
