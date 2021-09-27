@@ -90,6 +90,8 @@ GitHub:
 
 ## Further resources added by the community
 - [ ] [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
+- [ ] [Book: Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
+- [ ] [Book: Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
 - [ ] [Basics of Neural Networks, how they learn and some of the involved Mathematics(3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [ ] [Article on Beginner Level Datasets](https://medium.com/machine-learning-india/getting-started-in-data-science-beginner-level-datasets-376ffe60c6fe)
 - [ ] [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
