@@ -26,7 +26,7 @@ Watch the video on YouTube for instructions:
     - [ ] [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
 - [ ] Statistics
     - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
-    - [ ] [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi) (YouTube)
+
 - [ ] Python
     - [ ] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) 
     - [ ] [Advanced Python - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
@@ -102,3 +102,4 @@ Contributions are welcome! If you can recommend any other resources, feel free t
 - [ ] [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
 - [ ] [Book: Mathematics for Machine Learning](https://mml-book.github.io/) (with tutorials - FREE)
 - [ ] [Book: An Introduction to Statistical Learning](https://www.statlearning.com/) (- FREE)
+- [ ] [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi) (YouTube)
