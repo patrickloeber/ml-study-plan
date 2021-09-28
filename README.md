@@ -26,6 +26,7 @@ Watch the video on YouTube for instructions:
     - [ ] [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
 - [ ] Statistics
     - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
+    - [ ] [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi) (YouTube)
 - [ ] Python
     - [ ] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) 
     - [ ] [Advanced Python - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
@@ -75,13 +76,14 @@ Optional:
 - Get into Kaggle competitions.
 
 ## Further readings
-- https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d
-- https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/
-- https://www.youtube.com/watch?v=itzmu0l93wM
-- https://elitedatascience.com/learn-machine-learning#step-0
-- https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230
+- [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) (Towardsdatascience)
+- [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) (GeekforGeeks)
+- [How to get started in machine learning - best books and sites for machine learning](https://www.youtube.com/watch?v=itzmu0l93wM) (YouTube)
+- [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) (Elite Data Science)
+- [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230) (Aleksa Gordić)
 - https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
-- https://www.fast.ai/2019/01/02/one-year-of-deep-learning/
+- [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) (Fast.ai)
+- [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted) (Machine Learning Mastery)
 
 
 GitHub:
@@ -90,7 +92,7 @@ GitHub:
 - https://github.com/yanshengjia/ml-road
 
 ## Further resources added by the community
-Contributions are welcome! If you can recommend any other ressources, feel free to open a pull request :)
+Contributions are welcome! If you can recommend any other resources, feel free to open a pull request :)
 - [ ] [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
 - [ ] [Book: Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [ ] [Book: Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
