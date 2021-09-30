@@ -2,15 +2,21 @@
 
 A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough theoretical and practical experience to get started in the industry! I tried to limit the resources to a minimum, but some courses are extensive.
 
-Watch the video on YouTube for instructions:  
-[![Alt text](https://img.youtube.com/vi/dYvt3vSJaQA/hqdefault.jpg)](https://www.youtube.com/watch?v=dYvt3vSJaQA)  
-[https://www.youtube.com/watch?v=dYvt3vSJaQA](https://www.youtube.com/watch?v=dYvt3vSJaQA)
+### Watch the video on YouTube for instructions:  [Link to Youtube Video](https://www.youtube.com/watch?v=dYvt3vSJaQA)
 
-#### IMPORTANT: 
+<br>
+
+<p align="center">
+  <img width="900" height="530" src="https://user-images.githubusercontent.com/78334545/135405268-c19dcca2-7f9e-4913-b664-e9f91d77d688.jpeg" href="https://www.youtube.com/watch?v=dYvt3vSJaQA">
+</p>
+
+
+
+## IMPORTANT: 
 - This list is not sponsored by any of the mentioned links! I did a lot of the courses myself and can highly recommend them!
 - This list takes a lot of time and effort to finish if you want to do it properly! The list does not look that long, but don't underestimate it.
 
-#### How to use the Plan:
+## How to use the Plan:
 - For theory lectures: Follow along, take notes, and repeat the notes afterwards.
 - For practical lectures/courses: Follow along, take notes. If they provide exercises, do them!!! Do not just google the answer, but try to solve it yourself first!
 - For coding tutorials: Code along, and after the video try to code it on your own again.
@@ -32,7 +38,7 @@ Watch the video on YouTube for instructions:
     - [ ] [Advanced Python - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
     - [ ] [Numpy - Free Udemy Course](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)
     - [ ] Matplotlib
-        - [ ] [sentdex - Playlist on YouTube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) or
+        - [ ] [Sentdex - Playlist on YouTube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) or
         - [ ] [Corey Schafer - Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
     - [ ] [Pandas Tutorial - Playlist on Youtube (Corey Schafer)](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
@@ -66,7 +72,7 @@ Optional:
 - [ ] [8 Fun Machine Learning Projects For Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 
 ### 4. Prep for Interviews
-- [ ] https://github.com/alexeygrigorev/data-science-interviews
+- [ ] [Data Science Interviews by Alexey Grigorev](https://github.com/alexeygrigorev/data-science-interviews)
 
 ## Next Level
 - Make your own projects to show what you have learned.
@@ -81,15 +87,15 @@ Optional:
 - [How to get started in machine learning - best books and sites for machine learning](https://www.youtube.com/watch?v=itzmu0l93wM) (YouTube)
 - [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) (Elite Data Science)
 - [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230) (Aleksa Gordić)
-- https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
+- [Beginners Guide to Machine Learning with Python](https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51)
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) (Fast.ai)
 - [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted) (Machine Learning Mastery)
 
 
 GitHub:
-- https://github.com/ZuzooVn/machine-learning-for-software-engineers
-- https://github.com/Avik-Jain/100-Days-Of-ML-Code
-- https://github.com/yanshengjia/ml-road
+- [Machine Learning for Software Development](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+- [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [ML Road](https://github.com/yanshengjia/ml-road)
 
 ## Further resources added by the community
 Contributions are welcome! If you can recommend any other resources, feel free to open a pull request :)
