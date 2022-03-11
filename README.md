@@ -105,3 +105,4 @@ Contributions are welcome! If you can recommend any other resources, feel free t
 - [ ] [Book: Mathematics for Machine Learning](https://mml-book.github.io/) (with tutorials - FREE)
 - [ ] [Book: An Introduction to Statistical Learning](https://www.statlearning.com/) (- FREE)
 - [ ] [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi) (YouTube)
+- [ ] [Book: The Hundred Page ML Book by Andriy Burkov](http://themlbook.com/) (Read First Buy Later - Download and Wiki)
