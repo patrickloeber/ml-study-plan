@@ -21,6 +21,10 @@ Watch the video on YouTube for instructions:
 ## The Plan
 
 ### 0. Prerequisites
+- [ ] Mathematics for Machine Learning and Data Science Specialization.
+    - [ ] [DeepLearning.AI - Linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science)
+    - [ ] [DeepLearning.AI - Calculus](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science)
+    - [ ] [DeepLearning.AI - Probability and Statistics](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science)
 - [ ] Linear Algebra and Multivariate Calculus
     - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
     - [ ] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
